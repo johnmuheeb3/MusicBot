@@ -1,6 +1,6 @@
-token=NDg3NzE2MjU5NDg4NzI3MDQw.DwtQ6Q.rznDW8Nzwc_8rNlNpSc8bBWt0wc
-owner=349095859859881984
-prefix=m-
-game=m-help |BlueMusic :blue_heart::sparkles:
+token=NTMwMDMyNjA5OTU5MzQ2MTg2.Dw6AHA.PtRJ15oBtKuQF1OlRhUkI0sZr5c
+owner=522394503466975232
+prefix=1
+game=1play
 stayinchannel=true
 songinstatus=false
