@@ -1,4 +1,4 @@
-token=NTYzNTYzOTc4MjYxNzkwNzMw.XKgeGg.0OIk8kFCwEeKYdRKNCUIrDIbtxE
+token=NTYzNTYzOTc4MjYxNzkwNzMw.XKging.wIW2QRzuCejxKHQ1_8Mni0NydOo
 owner=349095859859881984
 prefix=J
 game=
